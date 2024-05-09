@@ -1,4 +1,4 @@
-# Prueba - Acceso a datos en aplicaciones Node
+# Desafío - Roommates
 
 Creación de un servidor con Node.js que sirva una interfaz HTML y una API RESTful para gestionar el registro de gastos entre roommates.
 
