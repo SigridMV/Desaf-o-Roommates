@@ -1,0 +1,28 @@
+{
+ "roommates": [
+  {
+   "id": "a88cf396-f966-4d41-8014-3b2c288b680b",
+   "nombre": "Kübra Ayaydın",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "93233406-25f8-4f38-bc07-9968c7d09c6f",
+   "nombre": "Maxine Griffin",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "c5a1e6e7-0d37-49ce-bfab-8f5161695037",
+   "nombre": "Borja Núñez",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "5c273cc1-bffe-46bd-8ec1-6e7bad5cc1e7",
+   "nombre": "Rosibel Pinto",
+   "debe": "",
+   "recibe": ""
+  }
+ ]
+}
